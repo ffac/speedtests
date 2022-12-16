@@ -11,6 +11,6 @@ and contains wireguard speed tests for various devices:
 | Zyxel WRE-6606 | v2022.1.10       | 36.5 | 37.3 | 250          | 40         |
 | Xiaomi Mi4a    | v2022.1.10       | 97   | 37   | 250          | 40         |
 | WNDR3700v2     | v2022.1.10       | 14   | 19.3 | 250          | 40         |
-|                |                  |      |      |              |            |
+| Asus RT-AX53U  | v2022.1.10       | 104  | 37   | 250          | 40         |
 
 All speedtests were done using speedtest.net
