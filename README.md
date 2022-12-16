@@ -12,3 +12,5 @@ and contains wireguard speed tests for various devices:
 | Xiaomi Mi4a    | v2022.1.10       | 97   | 37   | 100          | 40         |
 | WNDR3700v2     | v2022.1.10       | 14   | 19.3 | 100          | 40         |
 |                |                  |      |      |              |            |
+
+All speedtests were done using speedtest.net
