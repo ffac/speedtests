@@ -1,3 +1,6 @@
+The following table was created with https://tableconvert.com/
+and contains wireguard speed tests for various devices:
+
 | Router         | Firmware-Version | Down | Up   | Leitung-Down | Leitung-Up |
 |----------------|------------------|------|------|--------------|------------|
 | Netgear EX3700 | v2022.1.3        | 8.3  | 7.88 | 50           | 10         |
