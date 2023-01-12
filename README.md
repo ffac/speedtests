@@ -21,7 +21,7 @@ and contains wireguard speed tests for various devices:
 | **WNDR3700v2**            | Netgear     | v2022.1.10       | 15    | 20.15 | 250          | 40         | Wired           | [^2] (except upload which is faster) |
 | **CPE210 v1**             | TP-Link     | v2022.1.10       | 9.87  | 15.12 | 250          | 40         | Wired           | [^2] (except upload which is faster) |
 | **Mi 4A Gigabit Edition** | Xiaomi      | v2022.1.10       | 58.47 | 29.5  | 250          | 40         | Wired           | [^2]                                 |
-| **O2 Box 6431**           | Arcadyan    | v2022.1.10       | 9.2   | 4.3   | 40           | 10         | Wireless        |                                     |
+| **O2 Box 6431**           | Arcadyan    | v2022.1.10       | 9.2   | 4.3   | 40           | 10         | Wired           |                                     |
 
 
 All speedtests were done using speedtest.net  
