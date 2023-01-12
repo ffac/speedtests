@@ -14,12 +14,14 @@ and contains wireguard speed tests for various devices:
 | **RT-AX53U**              | Asus        | v2022.1.10       | 105   | 37.9  | 250          | 40         | Wireless        |                                      |
 | **CPE210 v1**             | TP-Link     | v2022.1.10       | 10.7  | 7.28  | 250          | 40         | Wireless        |                                      |
 | **NanoPi R2S**            | FriendlyElc | v2022.1.10       | 183   | 37.9  | 250          | 40         | Wireless        | [^1]                                 |
+| **O2 Box 6431**           | Arcadyan    | v2022.1.10       | 8.5   | 4.3   | 40           | 10         | Wireless        |                                     |
 | **RT-AX53U**              | Asus        | v2022.1.10       | 59    | 29.12 | 250          | 40         | Wired           | [^2]                                 |
 | **DIR-860L**              | D-Link      | v2022.1.10       | 59.4  | 30.27 | 250          | 40         | Wired           | [^2]                                 |
 | **NanoPi R2S**            | FriendlyElc | v2022.1.10       | 89    | 35.3  | 250          | 40         | Wired           | [^2]                                 |
 | **WNDR3700v2**            | Netgear     | v2022.1.10       | 15    | 20.15 | 250          | 40         | Wired           | [^2] (except upload which is faster) |
 | **CPE210 v1**             | TP-Link     | v2022.1.10       | 9.87  | 15.12 | 250          | 40         | Wired           | [^2] (except upload which is faster) |
 | **Mi 4A Gigabit Edition** | Xiaomi      | v2022.1.10       | 58.47 | 29.5  | 250          | 40         | Wired           | [^2]                                 |
+| **O2 Box 6431**           | Arcadyan    | v2022.1.10       | 9.2   | 4.3   | 40           | 10         | Wireless        |                                     |
 
 
 All speedtests were done using speedtest.net  
